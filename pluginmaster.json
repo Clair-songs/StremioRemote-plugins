@@ -3,7 +3,7 @@
         "Author":  "StremioRemote",
         "Name":  "Stremio Remote",
         "InternalName":  "StremioRemote",
-        "AssemblyVersion":  "1.6.0.0",
+        "AssemblyVersion":  "1.7.0.0",
         "Description":  "Search movies and series and watch them inside the game, using streams from your own Stremio addons (torrents play through Stremio\u0027s streaming server), YouTube, Twitch, magnet or direct links. Watch in a window, on a screen you place in the world (hidden behind walls and people, with sound that comes from it), or on your minion with the Background Screen mod. Watch parties: Lightless Sync pairs nearby can join and watch in sync (needs SimpleHeels). Also a queue, continue watching, and remote buttons for the Stremio app.\n\nThe video player comes with the Stremio desktop app, or the plugin can download it (about 30 MB). Torrents need Stremio running. Not affiliated with Stremio.",
         "Punchline":  "Watch Stremio, torrents, YouTube and Twitch on a screen in the game world, with friends.",
         "ApplicableVersion":  "any",
@@ -26,7 +26,7 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  1795360359,
+        "LastUpdate":  1795362747,
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/Clair-songs/StremioRemote-plugins/main/plugins/StremioRemote/latest.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Clair-songs/StremioRemote-plugins/main/plugins/StremioRemote/latest.zip",
         "DownloadLinkTesting":  "https://raw.githubusercontent.com/Clair-songs/StremioRemote-plugins/main/plugins/StremioRemote/latest.zip"
