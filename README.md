@@ -15,8 +15,10 @@ minion with the Background Screen mod. Watch together with your Lightless Sync p
 Updates arrive through `/xlplugins` like any other plugin.
 
 ## What you need
-- **The Stremio desktop app** on the same PC: the in-game player uses the video library that comes with it, and
-  torrent streams are downloaded by Stremio's streaming server (Stremio can stay minimized).
+- **The video player**: it comes with the Stremio desktop app, or, without Stremio, click **Download the player** in
+  the plugin (about 30 MB, once, from the official Windows builds of mpv).
+- **The Stremio desktop app, running**, only for torrent streams: Stremio's streaming server downloads them (it can
+  stay minimized). Debrid/direct links, YouTube and Twitch work without Stremio.
 - **Your Stremio addons**: in the plugin, Settings -> Stream addons, paste each addon's link (its manifest.json URL).
 - Optional, for **watch parties** with friends: **Lightless Sync** (paired with each other) and **SimpleHeels**
   (it carries the watch-party info; you don't have to use heels). Everyone needs Stremio Remote.
