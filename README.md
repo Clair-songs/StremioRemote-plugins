@@ -27,6 +27,9 @@ Updates arrive through `/xlplugins` like any other plugin.
 - Optional, for **YouTube/Twitch** links: yt-dlp (the plugin can download it for you, or reuse one another plugin
   already downloaded).
 
+Torrent downloads are deleted from Stremio's cache after you've watched them to the end (you can turn this off in
+Settings -> In-game player).
+
 ## Quick start
 - Search a title -> **Watch in game** -> pick a stream.
 - `/stremio screen` to put the video on a screen in the world or on your minion.
